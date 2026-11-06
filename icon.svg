@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="G1 SSH bridge">
+  <rect width="64" height="64" rx="14" fill="#0b1220"/>
+  <g fill="none" stroke="#3ddc97" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="13" y="24" width="26" height="21" rx="6"/>
+    <path d="M20 24v-6M32 24v-6"/>
+    <path d="M24 39h6"/>
+    <path d="M46 29a9 9 0 0 1 0 12"/>
+    <path d="M51 25a15 15 0 0 1 0 20"/>
+  </g>
+  <circle cx="21" cy="33" r="2.4" fill="#3ddc97"/>
+  <circle cx="32" cy="33" r="2.4" fill="#3ddc97"/>
+</svg>

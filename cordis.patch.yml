@@ -1,0 +1,10 @@
+- insert:
+    - id: g1-ssh
+      name: dsh-g1-ssh
+      config:
+        mode: wifi
+        user: unitree
+        setupDone: false
+        port: 22
+        connectTimeoutSec: 10
+        commandTimeoutSec: 60
