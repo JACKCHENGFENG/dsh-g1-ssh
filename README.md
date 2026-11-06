@@ -1,6 +1,6 @@
-# dsh-g1-ssh — G1 无线/有线 SSH 桥接
+# dsh-g1-ssh — G1 SSH 桥接
 
-通过 SSH 连接宇树 G1 机器人，把「在机器人上执行命令 / 读写文件」注册成 DeepSeek Harness 的 agent 工具，并提供首次启动的连接向导和常驻设置页。
+通过 SSH 连接宇树 G1 机器人（无线或网线均可），把「在机器人上执行命令 / 读写文件」注册成 DeepSeek Harness 的 agent 工具，并提供首次启动的连接向导和常驻设置页。
 
 ## 从 GitHub 安装
 

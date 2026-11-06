@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "G1 SSH Bridge",
-    "description": "Wireless SSH access to a Unitree G1 robot: run commands and read, write, or edit files on the robot from the agent."
+    "description": "Wireless or wired SSH access to a Unitree G1 robot: run commands and read, write, or edit files on the robot from the agent."
   }
 }
